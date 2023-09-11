@@ -15,6 +15,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0px var(--default-layout-horizontal-spacer);
 }
 .actions {
     display: flex;
@@ -95,4 +96,5 @@
     margin-left: 28px;
     padding: 4px 8px;
     background: transparent;
+    cursor: pointer;
 }
