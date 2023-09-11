@@ -1,1 +1,1 @@
-export {default as wrapper} from './Wapper'
+export { default as Wrapper } from './Wrapper'
